@@ -60,11 +60,11 @@ We provide two drivers (text and graphic) to help you test the individual method
 
 Here is an example of testing this method using input1.in in both drivers. In TextDriver, open spaces in the `openSpaces ArrayList` are denoted by two asterisks \*\*.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.45.26-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.45.26-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-11.08.45-AM-275x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-11.08.45-AM.png)
 
 Animated Driver
 
@@ -85,11 +85,11 @@ This method adds a random tile into the board, following these rules:
 
 Here is an example of testing this method using input1.in in both drivers.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.46.17-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.46.17-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-5.08.14-PM-277x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-5.08.14-PM.png)
 
 Animated Driver
 
@@ -103,11 +103,11 @@ Move all tiles as far left as possible while maintaining the same order and numb
 
 Here is an example of testing this method using input1.in in both drivers.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.46.56-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.46.56-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-11.37.32-AM-275x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-11.37.32-AM.png)
 
 Animated Driver
 
@@ -121,11 +121,11 @@ Merge all identical nonzero, horizontal pairs in the board.
 
 Here is an example of testing this method using input1.in in both drivers.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.47.23-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.47.23-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-11.41.27-AM-276x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-11.41.27-AM.png)
 
 Animated Driver
 
@@ -144,11 +144,11 @@ Interchange the rows and columns of the board. In other words, row 1 should beco
 
 Here is an example of testing this method using input1.in in both drivers.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.47.57-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.47.57-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-11.50.51-AM-278x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-11.50.51-AM.png)
 
 Animated Driver
 
@@ -162,11 +162,11 @@ Reverse all rows.
 
 Here is an example of testing this method using input1.in in both drivers.
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-4.48.31-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-4.48.31-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-11.55.14-AM-277x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-11.55.14-AM.png)
 
 Animated Driver
 
@@ -184,11 +184,11 @@ Putting everything together by calling previous methods to construct 2048 moves 
 
 Here is the expected output after testing makeMove with input1.in, **moving up:**
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-12.04.41-PM.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-12.04.41-PM.png)
 
 Text Driver
 
-![](./readMe45.md_files/Screen-Shot-2023-01-27-at-12.04.56-PM-278x300.png)
+![](https://ds.cs.rutgers.edu/wp-content/uploads/sites/82/2023/01/Screen-Shot-2023-01-27-at-12.04.56-PM.png)
 
 Animated Driver
 
